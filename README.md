@@ -9,7 +9,6 @@ These pdf version of the presentations at the workshop are available for your in
 - Introduction to TESS
 - Proposing for TESS Data and Funding
 - How to Find if Your Target was Observed by TESS
-- How to Access TESS Data
 - Introduction to TIKE
 - Non-exoplanet science from TESS
 
@@ -21,3 +20,8 @@ These jupyter notebooks will step through how to work directly with TESS data. I
 - In the `tutorial/` directory there are notebooks which will step you through how to fit simple linear models to data to remove systematics and work with TESS data
 
 
+## Handouts:
+
+This folder contains handouts and materials available from the workshop including:
+
+- How to Access TESS Data
