@@ -2,6 +2,10 @@
 
 This repository holds the materials for the TESS interactive workshop at the AAS 243 meeting. In this repository you'll find 
 
+## Agenda: 
+
+This folder contains the agenda for the workshop.
+
 ## Talks:
 
 These pdf version of the presentations at the workshop are available for your information. These include
@@ -26,6 +30,3 @@ This folder contains handouts and materials available from the workshop includin
 
 - How to Access TESS Data
 
-## Agenda: 
-
-This folder contains the agenda for the workshop.
