@@ -25,3 +25,7 @@ These jupyter notebooks will step through how to work directly with TESS data. I
 This folder contains handouts and materials available from the workshop including:
 
 - How to Access TESS Data
+
+## Agenda: 
+
+This folder contains the agenda for the workshop.
