@@ -1,6 +1,10 @@
 # TESS Interactive Workshop Materials
 
-This repository holds the materials for the TESS interactive workshop at the AAS 241 meeting. In this repository you'll find 
+This repository holds the materials for the TESS interactive workshop at the AAS 243 meeting. In this repository you'll find 
+
+## Agenda: 
+
+This folder contains the agenda for the workshop.
 
 ## Talks:
 
@@ -25,3 +29,4 @@ These jupyter notebooks will step through how to work directly with TESS data. I
 This folder contains handouts and materials available from the workshop including:
 
 - How to Access TESS Data
+
