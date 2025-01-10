@@ -1,6 +1,6 @@
 # TESS Interactive Workshop Materials
 
-This repository holds the materials for the TESS interactive workshop at the AAS 243 meeting. In this repository you'll find 
+This repository holds the materials for the two day TESS interactive workshop at the AAS 245 meeting. In this repository you'll find 
 
 ## Agenda: 
 
